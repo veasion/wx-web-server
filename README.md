@@ -1,18 +1,27 @@
-# 企微 & 个微 群发、开放接口
+# 企微 & 个微
+
+微信、企微 群发系统 hook版本、协议版，支持web网页操作，提供 api 接口，能快速实现微信聊天机器人、企微聊天机器人。
+
 
 支持一个用户对多个企业微信进行聚合群发、聚合聊天、定时群发、用户动态分群、聊天消息记录等功能，每秒支持群发上万消息。
 
 
-
-企微/个微托管在客户端，网页接口操作群发&在线聊天，支持 api 对接（比如做ChatGPT机器人）。
-
+企微/个微托管在客户端，网页接口操作群发&在线聊天，支持jwt联合登录系统账号打通，支持 api 对接（比如做ChatGPT机器人）。
 
 
-商务合作（开放源码，加V请备注来意）：veasion_wx
+欢迎技术交流，Q：1456065030 ，请勿用于商业用途。
 
 
+## api 接口文档截图
 
-## 使用截图
+
+![api1](https://veasion-img.oss-cn-beijing.aliyuncs.com/github/wxhook/api1.png)
+
+
+![api2](https://veasion-img.oss-cn-beijing.aliyuncs.com/github/wxhook/api2.png)
+
+
+## web端使用截图
 
 ![1](https://veasion-img.oss-cn-beijing.aliyuncs.com/github/wxhook/1.png)
 
